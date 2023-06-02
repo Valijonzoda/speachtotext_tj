@@ -27,3 +27,4 @@ predictor = huggingface_model.deploy(
 predictor.predict({
 	'inputs': "sample1.flac"
 })
+#123
